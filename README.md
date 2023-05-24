@@ -1,6 +1,6 @@
 ### Hi there, I'm Ibrahim 👋
 
-# Pre-final year Software Engineering student | Delhi Technological University (Formerly DCE) 
+#### Pre-final year Software Engineering student | Delhi Technological University (Formerly DCE) 
 <!--
 <img alt="Profile Views" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
 ![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
