@@ -5,7 +5,7 @@
 <img alt="Profile Views" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
 ![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
 -->
-![](https://komarev.com/ghpvc/?username=xcrackerx&label=PROFILE+VIEWS&color=darkblue&style=plastic)
+![](https://komarev.com/ghpvc/?username=xcrackerx&label=PROFILE+VIEWS&color=black&style=plastic)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xcrackerx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
