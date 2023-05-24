@@ -12,7 +12,7 @@
 ![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcrackerx&layout=compact&show_icons=true)
 
 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 How to reach me: mailto:mohdibrahimmallick@gmail.com
 - 😄 Pronouns: xcrackerx
