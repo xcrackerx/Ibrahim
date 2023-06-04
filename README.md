@@ -13,7 +13,7 @@
 ![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcrackerx&layout=compact&show_icons=true)
 -->
 <p align="center">
-![GitHub Views](https://komarev.com/ghpvc/?username=xcrackerx)
+![GitHub Views](https://komarev.com/ghpvc/?username=xcrackerx&color=fa9a51)
 </br>
 <a href="https://github.com/xcrackerx"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=xcrackerx&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
