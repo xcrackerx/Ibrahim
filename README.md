@@ -17,7 +17,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=xcrackerx&color=fa9a51)
 </br>
-<a href="https://github.com/xcrackerx"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=xcrackerx&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/xcrackerx"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=xcrackerx&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Web Development projects
