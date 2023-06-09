@@ -22,7 +22,6 @@
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 How to reach me: mailto:mohdibrahimmallick@gmail.com
-- 😄 Pronouns: xcrackerx
 
 <!--
 - 🔭 I’m currently working on ...
