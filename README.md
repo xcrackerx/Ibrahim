@@ -7,7 +7,6 @@
 
 <a href="https://github.com/xcrackerx"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=xcrackerx&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
-- 🌱 I’m currently looking for an Analyst or Consulting Job
 - 📫 How to reach me: mailto:mohdibrahimmallick@gmail.com | [LinkedIn](https://www.linkedin.com/in/mohdibrahimmallick/)
 
 <!--
