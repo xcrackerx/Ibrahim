@@ -1,14 +1,13 @@
 ### Hi there, I'm Ibrahim 👋
 
-#### Pre-final year Software Engineering student | Delhi Technological University (Formerly DCE) 
+#### Final year Software Engineering student | Delhi Technological University (Formerly DCE) 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=xcrackerx&color=fa9a51)
 
 
 <a href="https://github.com/xcrackerx"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=xcrackerx&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on Web Development projects
+- 🌱 I’m currently looking for an Analyst or Consulting Job
 - 📫 How to reach me: mailto:mohdibrahimmallick@gmail.com
 
 <!--
